@@ -1,5 +1,12 @@
 ### Bem vindo ao meu perfil GitHub
 
+<div>
+<a href="https://github.com/ItsVitu">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsVitu&layout=compact&langs_count=7&theme=blue-green"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsVitu&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+</div>
+
+
 ## Ferramentas e tecnologias
 <div style="display: inline_block"><br>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" height="50"/>
